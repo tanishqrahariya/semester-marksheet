@@ -1,0 +1,53 @@
+*{
+  margin: 0%;
+  /* background-color: black; */
+  padding-top:2px ;
+}
+
+#head{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  /* color: white; */
+}
+h3{
+  font-size: larger;
+  text-align: center;
+  /* color: white; */
+}
+
+
+.tab{
+  border: 1px solid black;
+  width: max-content;
+}
+
+#table2{
+  height: 350px;
+  width: 100%;
+}
+td{
+  text-align: center;
+}
+
+#table1{
+  height: 70px;
+  width: 100%;
+  display: flex;
+  justify-content:center;
+
+  align-items: center;
+}
+
+.pu{
+  background-color: rgb(107, 107, 175);
+  height:23vh ;
+  text-align: center;
+}
+
+/* }
+
+#head{
+  background-color: lightsalmon;
+} */
